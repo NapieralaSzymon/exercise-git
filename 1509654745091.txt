@@ -1,3 +1,0 @@
-elitr,
-sed
-diam
