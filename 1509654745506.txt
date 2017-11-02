@@ -1,8 +1,1 @@
-sed
-diam
-nonumy
 eirmod
-tempor
-invidunt
-ut
-labore
