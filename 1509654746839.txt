@@ -3,5 +3,3 @@ sadipscing
 elitr,
 sed
 diam
-nonumy
-eirmod
